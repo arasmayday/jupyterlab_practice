@@ -1,0 +1,7 @@
+name: jupyter_practice
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.12
+prefix: /opt/miniconda3/envs/jupyter_practice
